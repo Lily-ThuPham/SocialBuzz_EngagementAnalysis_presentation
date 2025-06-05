@@ -11,6 +11,9 @@ _**Author**: Thu Pham | **Date**: 06/2025_
 ## _**1. Project Background**_
 ## Project Background: Social Buzz Engagement Analytics
 
+<p align="center">
+ <img src="images/SocialBuzz_logo_resize.png" alt="Centered Image">
+</p>
 
 This project focuses on a comprehensive data analysis of **Social Buzz**, a dynamic social media platform that has achieved remarkable growth, boasting **over 500 million active users (Monthly Active Users - MAU)** within just five years. A key differentiator for Social Buzz is its emphasis on **user anonymity**, . The platform supports a rich content ecosystem with **16 distinct content categories** and **four content formats** (GIF, audio, video, photo).
 
