@@ -41,4 +41,15 @@ The database structure for the meeting seen below consists of three tables:
  <img src="images/Social_Buzz_ERD.png" alt="Centered Image">
 </p>
 
+## _**3. Executive Summary**_
 
+Social Buzz has maintained a stable base of **480-490 reacting users per month** over the past year. However, **June 2021** signals a critical challenge, with a **2% drop in active users** and a **9% decrease in total reactions**, indicating a pressing need for sustained growth initiatives.
+
+Our analysis reveals significant gaps in content effectiveness, as only **76% of content successfully reaches audiences** in the past month, and a concerning **4% remains entirely unengaged** over a 12-month period. This is compounded by a shallow average of just **1.04 reactions per user daily**, indicating potential for deeper platform engagement.
+
+Despite these challenges, "power categories" (e.g., 'animals', 'technology', 'science') consistently drive high **positive sentiment**, accounting for **over 57%** of total reactions, contrasting with persistent underperformers. User behavior patterns identify **peak activity on Tuesdays** and a notable 3 AM - 6 AM activity surge, highlighting clear opportunities to optimize content delivery strategies for our diverse, global user base.
+
+## _**4. Insights Deep dive:**_
+### *4.1. Main Insight 1: User interaction with the platform contents raise some problems*
+- For the past 12 months (June 2020 - June 2021),480-490 active on the platform per month, only 60 audiences daily and each of them only interact with 01 post a day.
+- 96% contents pieces reach the audiences 
