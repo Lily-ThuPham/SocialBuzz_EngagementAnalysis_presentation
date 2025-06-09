@@ -6,7 +6,8 @@ _**Author**: Thu Pham | **Date**: 06/2025_
 2. [Data Structure & Initial Checks](#2-data-structure--initial-checks)  
 3. [Executive Summary](#3-executive-summary)  
 4. [Insights Deep Dive](#4-insights-deep-dive)  
-5. [Recommendations]
+5. [Recommendations](#5-recommendations)
+6. [Assumptions and Caveats](#6-assumptions-and-caveats)
 
 ## _**1. Project Background**_
 
@@ -111,3 +112,10 @@ Based on our comprehensive analysis of Social Buzz's engagement landscape, we pr
 - **Refine Content Delivery to align with users behavior**:
     - Adjust publishing schedules to align with Tuesday peaks and leverage the 3 AM - 6 AM activity surge to effectively reach global users. 
     - Implement A/B tests on UI elements (e.g., "trending now" sections) to improve discoverability.
+
+## _**6. Assumptions and Caveats**_
+This analysis is built upon specific assumptions and acknowledges certain caveats regarding the provided datasets:
+- **Sample Data Scope:** This analysis uses a sample of Social Buzz activity (e.g., ~480-490 monthly reacting users, 1,000 content items), assumed to be representative for this engagement study, despite the platform's 500M+ total users.
+- **Active User Definition:** "Active users" are strictly defined as individuals who recorded at least one "reaction" within the given period.
+- **Data Quality:** Analysis was performed on pre-processed data, noting specific issues:**missing values in Reactions table's `User_ID` (3019 rows) and `Type` columns (980 rows)** were deleted, assuming that these rows does not affect the overall analysis.
+- Sample Size Context: The relatively "low" content and user numbers in the sample are attributed to the project's focus on a detailed slice of user behavior and interactions, rather than reflecting the entire platform's scale.
