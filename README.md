@@ -71,3 +71,8 @@ Despite these challenges, "power categories" (e.g., 'animals', 'technology', 'sc
 - The overall content engagement distribution over 12 months shows that the highest percentage **22% of content received 31-40 reactions (224 posts)**, indicating a healthy proportion of content achieving moderate to high engagement over the long term, with an **average of 25.5 reactions** per post.
 - A critical finding is that **4% (38 pieces) of content received 0 reactions**, despite a high overall content reaction rate of **96%**. This consistently unengaged content represents a clear area for portfolio refinement.
 ![Last 12 months contents activation](images/L12M_content_reach.png)
+- **Categories Contributing to Zero Engagement:** "tennis", "fitness" has correspondingly 10% and 8% of their contents received no reactions at all. 
+
+### *4.4. Main Insight 4: Content category performance Month-to-date*
+- The content portfolio strategy successfully drives positive sentiment, with **57% of total reactions being positive**.
+- A strong positive correlation exists between "Total Score" (popularity) and "Reaction Times" (volume) for "power categories" like "animals", "technology", and "science", indicating content that consistently elicits both high-scoring positive emotions and high interaction volume. Conversely, categories like "tennis", "public speaking", and "studying" consistently show low scores and low reaction volumes, signaling a struggle to resonate.
