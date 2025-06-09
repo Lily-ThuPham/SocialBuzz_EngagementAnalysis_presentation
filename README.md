@@ -44,9 +44,9 @@ The database structure for the meeting seen below consists of three tables:
 
 ## _**3. Executive Summary**_
 
-Social Buzz has maintained a stable base of **480-490 reacting users per month** over the past year. However, **June 2021** signals a critical challenge, with a **2% drop in active users** and a **9% decrease in total reactions**, indicating a pressing need for sustained growth initiatives.
+Social Buzz has maintained a stable base of **480-490 reacting users per month** over the past year. However, **June 2021** signals a critical challenge, with a **2% drop in active users** and a **9% decrease in total reactions**, and a low Engagement Rate per Post per User of 0.26% indicating a pressing need for sustained growth initiatives.
 
-Our analysis reveals significant gaps in content effectiveness, as only **76% of content successfully reaches audiences** in the past month, and a concerning **4% remains entirely unengaged** over a 12-month period. This is compounded by a shallow average of just **1.04 reactions per user daily**, indicating potential for deeper platform engagement.
+Our analysis reveals significant gaps in content effectiveness, as only **76% of content successfully reaches audiences** in the past month, and a concerning **4% remains entirely unengaged** over a 12-month period. This is compounded by a shallow average of just **1.04 reactions per user daily**, and an average **Engagement Rate per Post per User of 0.42%-0.43%** over the last 12 months (which is notably below the healthy benchmarks of 1% to 5% in 2020-2021), underscoring substantial untapped potential for deeper platform engagement.
 
 Despite these challenges, "power categories" (e.g., 'animals', 'technology', 'science') consistently drive high **positive sentiment**, accounting for **over 57%** of total reactions, contrasting with persistent underperformers. User behavior patterns identify **peak activity on Tuesdays** and a notable 3 AM - 6 AM activity surge, highlighting clear opportunities to optimize content delivery strategies for our diverse, global user base.
 
