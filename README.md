@@ -73,6 +73,23 @@ Despite these challenges, "power categories" (e.g., 'animals', 'technology', 'sc
 ![Last 12 months contents activation](images/L12M_content_reach.png)
 - **Categories Contributing to Zero Engagement:** "tennis", "fitness" has correspondingly 10% and 8% of their contents received no reactions at all. 
 
-### *4.4. Main Insight 4: Content category performance Month-to-date*
+### *4.4. Main Insight 4: Content category performance and Sentiment Divergence*
 - The content portfolio strategy successfully drives positive sentiment, with **57% of total reactions being positive**.
-- A strong positive correlation exists between "Total Score" (popularity) and "Reaction Times" (volume) for "power categories" like "animals", "technology", and "science", indicating content that consistently elicits both high-scoring positive emotions and high interaction volume. Conversely, categories like "tennis", "public speaking", and "studying" consistently show low scores and low reaction volumes, signaling a struggle to resonate.
+- In June 2021, a strong positive correlation exists between "Total Score" (popularity) and "Reaction Times" (volume) for "power categories" like "animals", "technology", and "science", indicating content that consistently elicits both high-scoring positive emotions and high interaction volume. Conversely, categories like "tennis", "public speaking", and "studying" consistently show low scores and low reaction volumes, signaling a struggle to resonate.
+- **Niche categories, such as "soccer", present a unique pattern**: while ranking high in 'Total Score' (5th), their 'Reaction Times' are relatively lower (10th). This suggests these topics are appreciated by a dedicated audience, but do not drive broad, frequent engagement.
+- Social Buzz anonymity succeeded in encouraging a wide range of genuine interactions: Present of **'scared' (Rank 1 overall)**, 'dislike', and 'indifferent' among the most used reactions. 
+![MTD Category performance](images/MTD_Category_performance.png)
+- Sentiment distribution significantly differentiates content quality: **Most popular content strongly elicits deep positive emotions** (e.g., 'cherish', 'heart') , while **less popular content triggers a higher proportion of negative (36%) and neutral (14%) reactions**, including 'dislike' and 'indifferent', reflecting lower perceived value.
+<p align="center">
+ <img src="images/MTD_Reactions_type.png" alt="Centered Image">
+</p>
+- The long-term trend for engagement shows a remarkably stable content performance landscape over the past 12 months. Categories like "animals" and "healthy eating" consistently perform well, while "public speaking", "tennis", and "veganism" consistently show low interest. Our contents base is lacking notable growth or shifts in user preferences across categories, highlighting a need for industry benchmarking.
+
+![Last 12 months Engagement trend by top and bottom categories](images/Top_category_trend_L12M.png)
+
+### *4.5. Main Insight 5: User Behavior Patterns: Strategic Timing for Engagement*
+- **Peak Engagement Mid-Week:** For June MTD, user engagement peaks mid-week, with **Tuesdays showing the highest average daily reactions at 66.7**, while Mondays are close behind at 66.0. This provides clear opportunities for content scheduling.
+- **Significant Weekend Dip:** Engagement consistently **dips notably on Fridays (58.0 reactions) and Saturdays (59.5 reactions)**, with Saturday being the lowest performing day.
+- **Unexpected Early Morning Surge:** A pronounced and **unexpected activity peak occurs between 3 AM and 6 AM**, with average reactions reaching **3.11 at 5 AM**. This strong early morning activity strongly suggests a significant segment of the user base operates in different time zones, highlighting a global audience in the current month.
+![MTD User behaviour](images/User_behaviour_MTD.png)
+
