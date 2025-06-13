@@ -118,9 +118,10 @@ Based on our comprehensive analysis of Social Buzz's engagement landscape, we pr
 ## _**6. Assumptions and Caveats**_
 This analysis is built upon specific assumptions and acknowledges certain caveats regarding the provided datasets:
 - **Sample Data Scope:** This analysis uses a sample of Social Buzz activity (e.g., ~480-490 monthly reacting users, 1,000 content items), assumed to be representative for this engagement study, despite the platform's 500M+ total users.
+- **Sample Size Context**: The relatively "low" content and user numbers in the sample are attributed to the project's focus on a detailed slice of user behavior and interactions, rather than reflecting the entire platform's scale.
 - **Active User Definition:** "Active users" are strictly defined as individuals who recorded at least one "reaction" within the given period.
-- **Data Quality:** Analysis was performed on pre-processed data, noting specific issues:**missing values in Reactions table's `User_ID` (3019 rows) and `Type` columns (980 rows)** were deleted, assuming that these rows does not affect the overall analysis.
-- Sample Size Context: The relatively "low" content and user numbers in the sample are attributed to the project's focus on a detailed slice of user behavior and interactions, rather than reflecting the entire platform's scale.
+- **Data Quality:** Analysis was performed on pre-processed data, noting specific issues: **missing values in Reactions table's `User_ID` (3019 rows) and `Type` columns (980 rows)** were deleted, assuming that these rows does not affect the overall analysis.
+
 
 ## _**End of Documents**_
 Thank you for reviewing this Social Buzz Engagement Analysis. I hope the insights and recommendations provided offer a clear understanding of the platform's current state and actionable strategies for growth.
