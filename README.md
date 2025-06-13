@@ -1,6 +1,8 @@
 # **Social Buzz - Engagement Analysis - Bi-weekly Update**
 _**Author**: Thu Pham | **Date**: 06/2025_
 
+*(Presentation available)*
+
 ## *Table of Contents*
 1. [Project Background](#1-project-background)  
 2. [Data Structure & Initial Checks](#2-data-structure--initial-checks)  
@@ -26,11 +28,11 @@ The analysis delves into crucial social media performance metrics and KPIs, incl
 * **Content Quality & Sentiment:** Here, we aim to identify and categorize "power categories" versus underperforming ones by analyzing overall **positive sentiment percentages** and delving into specific **reaction types** to understand nuanced user emotional responses to content.
 * **User Behavior Patterns:** This segment focuses on optimizing content delivery by pinpointing **optimal engagement windows** (e.g., by day of week and hour) and identifying activity peaks, informing tailored content scheduling strategies.
 
-An interactive Excel Dashboard used to report can be found here [link](Social_Buzz_dashboard.xlsx)
+An interactive Excel Dashboard used to report can be found here [link](https://drive.google.com/drive/folders/15LVV2ck9fkRxxN8gw6W-FDRg0RrJ1y60?usp=sharing).
 
-The bi-weekly report file hypothetically used for presentation in bi-weekly meeting can be found here [link]
+The bi-weekly report file hypothetically used for presentation in bi-weekly meeting can be found here [link](https://drive.google.com/drive/folders/15LVV2ck9fkRxxN8gw6W-FDRg0RrJ1y60?usp=sharing).
 
-The presentation in video format can be found here [link].
+The presentation in video format can be found here [link](https://drive.google.com/file/d/106FxChPFvLrnl7MEJC9BCir8vn8w3oBv/view?usp=sharing).
 
 ## _**2. Data Structure & Initial Checks**_
 The database structure for the meeting seen below consists of three tables:
@@ -119,3 +121,14 @@ This analysis is built upon specific assumptions and acknowledges certain caveat
 - **Active User Definition:** "Active users" are strictly defined as individuals who recorded at least one "reaction" within the given period.
 - **Data Quality:** Analysis was performed on pre-processed data, noting specific issues:**missing values in Reactions table's `User_ID` (3019 rows) and `Type` columns (980 rows)** were deleted, assuming that these rows does not affect the overall analysis.
 - Sample Size Context: The relatively "low" content and user numbers in the sample are attributed to the project's focus on a detailed slice of user behavior and interactions, rather than reflecting the entire platform's scale.
+
+## _**End of Documents**_
+Thank you for reviewing this Social Buzz Engagement Analysis. I hope the insights and recommendations provided offer a clear understanding of the platform's current state and actionable strategies for growth.
+
+For any questions, further discussions, or to connect, please feel free to reach out:
+
+* **Email:** thuanhpham.da@gmail.com
+* **LinkedIn:** [Link to My LinkedIn Profile](https://www.linkedin.com/in/pham-anh-thu/)
+* **Other Projects:** Explore my other data analytics projects on [GitHub](https://github.com/Lily-ThuPham)
+
+Your feedback is highly valued!
