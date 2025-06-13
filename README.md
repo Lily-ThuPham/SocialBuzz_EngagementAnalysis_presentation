@@ -28,11 +28,11 @@ The analysis delves into crucial social media performance metrics and KPIs, incl
 * **Content Quality & Sentiment:** Here, we aim to identify and categorize "power categories" versus underperforming ones by analyzing overall **positive sentiment percentages** and delving into specific **reaction types** to understand nuanced user emotional responses to content.
 * **User Behavior Patterns:** This segment focuses on optimizing content delivery by pinpointing **optimal engagement windows** (e.g., by day of week and hour) and identifying activity peaks, informing tailored content scheduling strategies.
 
-An interactive Excel Dashboard used to report can be found here [link](https://drive.google.com/drive/folders/15LVV2ck9fkRxxN8gw6W-FDRg0RrJ1y60?usp=sharing).
+An interactive Excel Dashboard used to report can be found here *[link](https://drive.google.com/drive/folders/15LVV2ck9fkRxxN8gw6W-FDRg0RrJ1y60?usp=sharing)*.
 
-The bi-weekly report file hypothetically used for presentation in bi-weekly meeting can be found here [link](https://drive.google.com/drive/folders/15LVV2ck9fkRxxN8gw6W-FDRg0RrJ1y60?usp=sharing).
+The bi-weekly report file hypothetically used for presentation in bi-weekly meeting can be found here *[link](https://drive.google.com/drive/folders/15LVV2ck9fkRxxN8gw6W-FDRg0RrJ1y60?usp=sharing)*.
 
-The presentation in video format can be found here [link](https://drive.google.com/file/d/106FxChPFvLrnl7MEJC9BCir8vn8w3oBv/view?usp=sharing).
+The presentation in video format can be found here *[link](https://drive.google.com/file/d/106FxChPFvLrnl7MEJC9BCir8vn8w3oBv/view?usp=sharing)*.
 
 ## _**2. Data Structure & Initial Checks**_
 The database structure for the meeting seen below consists of three tables:
