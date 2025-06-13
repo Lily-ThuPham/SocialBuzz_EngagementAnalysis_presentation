@@ -1,7 +1,7 @@
 # **Social Buzz - Engagement Analysis - Bi-weekly Update**
 _**Author**: Thu Pham | **Date**: 06/2025_
 
-*(Presentation available)*
+*(Presentation available [here](https://drive.google.com/file/d/106FxChPFvLrnl7MEJC9BCir8vn8w3oBv/view?usp=sharing))*
 
 ## *Table of Contents*
 1. [Project Background](#1-project-background)  
